@@ -1,18 +1,5 @@
-## 📊 Duolingo Review Sentiment Classification
+# 📊 Duolingo Review Sentiment Classification
 This project performs sentiment classification on user reviews of the Duolingo app scraped from the Google Play Store. The reviews are labeled using lexicon-based sentiment analysis and categorized into positive, neutral, and negative sentiments.
-
-### 📁 Project Structure
-```bash
-Copy
-Edit
-duolingo-sentiment/
-├── data/                # Raw and processed review data
-├── notebooks/           # Jupyter Notebooks for EDA and modeling
-├── src/                 # Source code for preprocessing and classification
-├── models/              # Saved models
-├── results/             # Evaluation reports and visualizations
-└── README.md            # Project documentation
-```
 
 ### 📌 Project Goals
 Scrape user reviews of the Duolingo app from the Google Play Store.
