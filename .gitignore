@@ -1,3 +1,4 @@
-best_model_lstm.h5
-best_model.h5
-cc.id.300.bin.gz.part
+my_awesome_model
+duolingo-sentiment-distillbert
+venv
+.env
